@@ -1,0 +1,36 @@
+.tabela {
+    border: solid 2px;
+    margin-left: auto;
+}
+
+.celula {
+    border: solid 3px;
+}
+
+.celula_cabecalho {
+    border: solid 3px;
+    font: times;
+    font-size: 20px;
+}
+
+*{
+    font-size: 15px;
+    font-style: italic;
+    font-weight: bold;
+    
+}
+
+body{
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.segundalinha{
+    background-color: red;
+}
+
+#terceiralinha{
+    background-color: yellow;
+}
